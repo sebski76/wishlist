@@ -5,13 +5,13 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Display name</column_label>
         <comments/>
         <create_roles/>
-        <default_value>300</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
